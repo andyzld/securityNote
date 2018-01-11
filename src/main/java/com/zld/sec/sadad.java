@@ -5,6 +5,7 @@ package com.zld.sec;
  */
 public class sadad {
     public static void main() {
+        System.out.println(21314);
         System.out.println(123);
     }
 }
