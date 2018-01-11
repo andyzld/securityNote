@@ -10,6 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Application {
     public static void main(String[] args) throws Throwable {
         String s = "1231";
+        int k = 1;
         SpringApplication.run(Application.class, args);
     }
 
